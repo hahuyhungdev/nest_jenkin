@@ -12,3 +12,4 @@ RUN yarn build
 
 CMD node ./dist/main.js
 
+# docker 
