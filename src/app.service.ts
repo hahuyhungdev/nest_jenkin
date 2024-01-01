@@ -7,6 +7,6 @@ export class AppService {
   }
 
   healthCheck(): string {
-    return `I'm still alive`;
+    return `I'm still alive, ahihi`;
   }
 }
