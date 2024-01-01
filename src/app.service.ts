@@ -6,7 +6,7 @@ export class AppService {
     return 'Hello World!';
   }
 
-  heathCheck(): string {
+  healthCheck(): string {
     return `I'm still alive`;
   }
 }
